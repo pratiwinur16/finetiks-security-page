@@ -149,7 +149,7 @@ export default function SecurityHeroV3() {
             initial={{ opacity: 0, y: 24 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1, ease: "easeOut" }}
-            className="max-w-[560px] font-poppins text-[32px] font-bold leading-tight text-white sm:text-[44px] lg:text-[52px]"
+            className="max-w-[600px] font-poppins text-[34px] font-bold leading-tight text-white sm:text-[46px] lg:text-[58px]"
           >
             {t.headline}
           </motion.h1>
