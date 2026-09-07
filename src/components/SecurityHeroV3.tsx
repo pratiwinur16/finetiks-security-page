@@ -144,12 +144,12 @@ export default function SecurityHeroV3() {
 
       <div className="relative mx-auto grid max-w-[1440px] grid-cols-1 items-center gap-12 px-6 pt-16 pb-14 sm:pt-20 sm:pb-16 lg:grid-cols-2 lg:gap-8 lg:px-[100px] lg:pt-24 lg:pb-20">
         {/* Copy — left */}
-        <div className="flex flex-col items-start gap-6 text-left pl-4 sm:pl-6 lg:pl-10">
+        <div className="flex -translate-y-8 flex-col items-start gap-6 text-left pl-4 sm:pl-6 lg:-translate-y-10 lg:pl-10">
           <motion.h1
             initial={{ opacity: 0, y: 24 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1, ease: "easeOut" }}
-            className="max-w-[600px] font-poppins text-[34px] font-bold leading-tight text-white sm:text-[46px] lg:text-[58px]"
+            className="max-w-[600px] font-poppins text-[34px] font-bold leading-tight text-white sm:text-[46px] lg:text-[60px]"
           >
             {t.headline}
           </motion.h1>
