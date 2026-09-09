@@ -164,7 +164,7 @@ const COPY = {
     phone: "+6285179912745 (WhatsApp only)",
     email: "support@finetiks.com",
     registeredLabel: "Registered and supervised by:",
-    memberLabel: "Member and certified by:",
+    memberLabel: "Member of:",
     downloadLabel: "Download Our App",
     socialCta: "Find us, follow our Social Media, and join our WhatsApp Community:",
     copyright: "Copyright © 2026. All rights reserved.",

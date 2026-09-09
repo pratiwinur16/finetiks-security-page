@@ -13,7 +13,7 @@ const COPY = {
   en: {
     regulated: "Registered & Supervised by:",
     partner: "In partnership with:",
-    member: "Member and certified by:",
+    member: "Member of:",
   },
 };
 
