@@ -8,7 +8,7 @@ const COPY = {
   id: {
     regulated: "Terdaftar & diawasi oleh:",
     partner: "Bekerja sama dengan:",
-    member: "Anggota & disertifikasi oleh:",
+    member: "Anggota & terdaftar oleh:",
   },
   en: {
     regulated: "Registered & Supervised by:",

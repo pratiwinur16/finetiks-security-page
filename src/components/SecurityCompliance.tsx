@@ -7,7 +7,7 @@ import { useLanguage } from "./LanguageProvider";
 
 const HEADER = {
   id: {
-    title: "Diawasi dan Tersertifikasi Resmi",
+    title: "Diawasi dan Terdaftar Resmi",
     subtitle:
       "FINETIKS beroperasi di bawah pengawasan otoritas resmi di Indonesia dan mengikuti standar keamanan informasi internasional.",
   },

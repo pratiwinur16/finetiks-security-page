@@ -32,10 +32,10 @@ export default function CTOQuote() {
         transition={{ duration: 0.6, ease: "easeOut" }}
         className="mx-auto flex max-w-[1128px] flex-col items-start gap-5 text-left"
       >
-        {/* Avatar — placeholder photo until a real headshot is available */}
+        {/* Avatar */}
         <div className="relative h-20 w-20 overflow-hidden rounded-full shadow-sm">
           <Image
-            src="/images/cto-placeholder.jpg"
+            src="/images/cto-edwin.png"
             alt={t.name}
             fill
             sizes="80px"
