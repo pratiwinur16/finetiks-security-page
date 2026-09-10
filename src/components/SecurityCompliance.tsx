@@ -49,7 +49,7 @@ const BADGES = {
       src: "/images/badge-iso27001-cert.webp",
       alt: "ISO 27001",
       name: "ISO 27001",
-      description: "Tersertifikasi standar manajemen keamanan informasi.",
+      description: "Terdaftar standar manajemen keamanan informasi.",
     },
   ],
   en: [
@@ -82,7 +82,7 @@ const BADGES = {
       src: "/images/badge-iso27001-cert.webp",
       alt: "ISO 27001",
       name: "ISO 27001",
-      description: "Certified to the international information security standard.",
+      description: "Registered to the international information security standard.",
     },
   ],
 };
