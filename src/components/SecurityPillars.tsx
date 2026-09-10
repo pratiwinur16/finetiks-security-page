@@ -58,9 +58,9 @@ const PILLARS: Record<"id" | "en", Pillar[]> = {
     },
     {
       icon: Certificate,
-      title: "Tersertifikasi ISO 27001",
+      title: "ISO 27001",
       description:
-        "Standar manajemen keamanan informasi kami tersertifikasi ISO 27001, standar internasional untuk data.",
+        "Standar manajemen keamanan informasi kami ISO 27001, standar internasional untuk data.",
     },
   ],
   en: [
@@ -95,9 +95,9 @@ const PILLARS: Record<"id" | "en", Pillar[]> = {
     },
     {
       icon: Certificate,
-      title: "ISO 27001 Certified",
+      title: "ISO 27001",
       description:
-        "Our information security management is ISO 27001 certified, the international data protection standard.",
+        "Our information security management is ISO 27001, the international data protection standard.",
     },
   ],
 };
